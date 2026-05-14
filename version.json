@@ -1,7 +1,7 @@
 {
   "latest_version": "5.5",
   "release_date": "2026-05-14",
-  "download_url": "PLACEHOLDER_WILL_BE_REPLACED_AFTER_FIRST_INSTALLER_BUILD",
+  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.5/AudiobookFactory_Setup_v5.5.exe",
   "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.5",
   "release_notes_short": "Initial beta release. EULA, feedback button, crash logging, full macOS support.",
   "minimum_eula_version": "1.0",
