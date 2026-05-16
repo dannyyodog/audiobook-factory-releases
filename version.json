@@ -1,18 +1,9 @@
 {
-  "version": "5.5.1-rc2",
-  "latest_version": "5.5.1-rc2",
-  "release_date": "2026-05-16",
-  "eula_version": "1.0",
-  "current_eula_version": "1.0",
+  "latest_version": "5.5",
+  "release_date": "2026-05-14",
+  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.5/AudiobookFactory_Setup_v5.5.exe",
+  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.5",
+  "release_notes_short": "Initial beta release. EULA, feedback button, crash logging, full macOS support.",
   "minimum_eula_version": "1.0",
-  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.5.1-rc2",
-  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.5.1-rc2",
-  "downloads": {
-    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.5.1-rc2/AudiobookFactory_Setup_v5.5.1-rc2.exe",
-    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.5.1-rc2/AudiobookFactory_v5.5.1-rc2_mac.dmg"
-  },
-  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.5.1-rc2/AudiobookFactory_Setup_v5.5.1-rc2.exe",
-  "release_notes": "See release page for full notes.",
-  "release_notes_short": "See release page for full notes.",
-  "revoked_keys_url": "https://raw.githubusercontent.com/Dannyyodog/audiobook-factory-releases/main/revoked_keys.json"
+  "current_eula_version": "1.0"
 }
