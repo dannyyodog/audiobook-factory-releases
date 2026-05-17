@@ -1,17 +1,17 @@
 {
-  "version": "5.6",
-  "latest_version": "5.6",
-  "release_date": "2026-05-16",
+  "version": "5.7",
+  "latest_version": "5.7",
+  "release_date": "2026-05-17",
   "eula_version": "1.0",
   "current_eula_version": "1.0",
   "minimum_eula_version": "1.0",
-  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.6",
-  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.6",
+  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.7",
+  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.7",
   "downloads": {
-    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.6/AudiobookFactory_Setup_v5.6.exe",
-    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.6/AudiobookFactory_v5.6_mac.dmg"
+    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.7/AudiobookFactory_Setup_v5.7.exe",
+    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.7/AudiobookFactory_v5.7_mac.dmg"
   },
-  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.6/AudiobookFactory_Setup_v5.6.exe",
+  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.7/AudiobookFactory_Setup_v5.7.exe",
   "release_notes": "See release page for full notes.",
   "release_notes_short": "See release page for full notes.",
   "revoked_keys_url": "https://raw.githubusercontent.com/Dannyyodog/audiobook-factory-releases/main/revoked_keys.json"
